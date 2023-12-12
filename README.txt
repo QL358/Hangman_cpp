@@ -1,1 +1,1 @@
-Hangman in C++
+Crappy Hangman in C++
